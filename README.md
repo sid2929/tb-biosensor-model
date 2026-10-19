@@ -304,7 +304,7 @@ assumptions or unknowns, as documented in the sections above.
 ## Attribution and context
 
 Developed by Siddharth as an external dry-lab (computational modeling)
-contributor to an iGEM 2026 team's tuberculosis biosensor project.
+contributor to ICT Mumbai team's iGEM 2026 tuberculosis biosensor project.
 
 ## License
 
